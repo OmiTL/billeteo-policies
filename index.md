@@ -6,11 +6,11 @@ Aquí encontrará toda la información relacionada con el uso de la aplicación 
 
 ## Documentos Disponibles
 
-### 🔒 [Política de Privacidad](./privacy-policy.html)
+### 🔒 [Política de Privacidad](./privacidad.html)
 Describe qué datos recopilamos (y cuáles no), cómo los protegemos y cómo puede ejercer sus derechos ARCO o solicitar la eliminación de su cuenta.
 * *Lectura obligatoria para entender cómo protegemos sus datos financieros.*
 
-### 📄 [Términos y Condiciones de Uso](./terms-of-service.html)
+### 📄 [Términos y Condiciones de Uso](./terminos.html)
 El contrato legal entre usted y el desarrollador. Establece las reglas de uso, limitaciones de responsabilidad y derechos de propiedad intelectual.
 
 ---
